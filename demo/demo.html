@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>xBR js demo</title>
+    <title>xBR js demo jester oc edit</title>
         <script type="text/javascript" src="../xBRjs.js"></script>
     </head>
 
@@ -36,8 +36,12 @@
             image.setAttribute("height", image.height);
             /*Apply 2xBR*/
             let resultCanvas = applyXBR(image, 2);
+/* Meh */
+        let image2 = new Image();
+        image2.src=resultCanvas;
 
-            document.body.appendChild(resultCanvas);
+            document.body.appendChild(image2);
+/* Return from Anomaly */
             resultCanvas = applyXBR(image, 3);
 
             document.body.appendChild(resultCanvas);
