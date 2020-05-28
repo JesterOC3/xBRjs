@@ -1,4 +1,4 @@
-xBRjs
+xBRjs oc's version
 =====
 
 JS implementation of the xBR image scaling algorytm by Hyllian.
@@ -20,4 +20,4 @@ A canvas with the scaled image will be returned.
 Demo
 ----
 
-Check it out [here](http://joseprio.github.io/xBRjs/demo/demo.html).
+Check it out [here](http://JesterOC3.github.io/xBRjs/demo/demo.html).
