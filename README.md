@@ -20,4 +20,4 @@ A canvas with the scaled image will be returned.
 Demo
 ----
 
-Check it out [here](http://JesterOC3.github.io/xBRjs/demo/demo.html).
+Check it out [here](http://jesteroc3.github.io/demo.html).
